@@ -1,0 +1,10 @@
+.foot{
+    text-align: center;
+    background-image: linear-gradient(to top,#041B43,#5c71ce);
+    width: 100%;
+    height: 5%;
+    padding: 1%;
+    position: fixed;
+    margin-bottom: 0%;
+    margin-top: 5%;
+}
