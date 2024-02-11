@@ -1,0 +1,26 @@
+.head{
+    background-color: #5178f9;
+}
+
+.cntrl{
+    width: 2%;
+    height: 4%;
+    position: absolute;
+    margin: 2%;
+    opacity: 0;
+}
+
+
+.img{
+    width: 2%;
+    height: 2%;
+    margin: 2%;
+}
+.control{
+    text-align: right;
+}
+
+.home{
+    
+}
+

@@ -1,0 +1,27 @@
+.nav{
+    /* background-color: linear-gradient(blue,black); */
+    background-image: linear-gradient(to top,#041B43,#5c71ce);
+    width: 100%;
+    height: 5%;
+    padding: 1%;
+}
+
+.logo {
+    width: 40%;
+    height: 20%;
+}
+
+.test{
+    position: absolute;
+}
+
+.main {
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman';
+    margin: 5%;
+}
+
+.allset{
+    margin-left: 40%;
+}
